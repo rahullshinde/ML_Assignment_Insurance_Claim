@@ -54,3 +54,4 @@ Categorical features were encoded and numerical features were scaled using a pre
 | Random Forest (Ensemble) | Strong performance across all metrics (Accuracy: 0.840, AUC: 0.910). More robust than single Decision Tree and better at handling complex feature interactions.                                                |
 | XGBoost (Ensemble)       | Best overall performing model with highest AUC (0.916) & strong balance across precision, recall, and F1 score (≈0.842). Demonstrates superior generalization & ability to capture subtle patterns in dataset. |
 
+
